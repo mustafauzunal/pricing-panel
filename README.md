@@ -59,5 +59,3 @@ Feel free to open issues or submit pull requests. Keep changes small and focused
 ## 📄 License
 
 - This is a project made in Udemy Course 'The Web Developer Bootcamp 2025' by Colt Steele
-
-If you'd like, I can add a screenshot, live demo link, or a sample `LICENSE` file next. ✨
